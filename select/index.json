@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "BBIBBI",
+  "base_artist": "IU",
+  "createdAt": "2026-02-18T11:49:36.150130Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BBIBBI",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/01_BBIBBI_IU.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bbibbi - 삐삐",
+      "artist": "IU - 아이유",
+      "has_synced": true,
+      "path": "select/02_Bbibbi_-_삐삐_IU_-_아이유.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BBIBBI (삐삐)",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/03_BBIBBI_(삐삐)_IU.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "BBIBBI",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/04_BBIBBI_IU.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bbibbi",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/05_Bbibbi_IU.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "삐삐 (BBIBBI)",
+      "artist": "IU (아이유)",
+      "has_synced": true,
+      "path": "select/06_삐삐_(BBIBBI)_IU_(아이유).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bbibbi",
+      "artist": "Mishi Chwan",
+      "has_synced": true,
+      "path": "select/07_Bbibbi_Mishi_Chwan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "BBIBBI",
+      "artist": "IU",
+      "has_synced": true,
+      "path": "select/08_BBIBBI_IU.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bbibbi",
+      "artist": "이지은 (IU)",
+      "has_synced": true,
+      "path": "select/09_Bbibbi_이지은_(IU).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BBIBBI",
+      "artist": "IU",
+      "has_synced": false,
+      "path": "select/pl_01_BBIBBI_IU.txt"
+    }
+  ]
+}
