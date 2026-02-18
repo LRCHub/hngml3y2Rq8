@@ -1,0 +1,78 @@
+# IU – BBIBBI
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:01.94] Hi there 인사해 호들갑 없이
+[00:05.80] 시작해요 서론 없이
+[00:08.18] 스킨십은 사양할게요 back off back off
+[00:11.54] 이대로 좋아요 balance balance
+[00:15.19] It's me 나예요 다를 거 없이
+[00:19.03] 요즘엔 뭔가요 내 Gossip
+[00:21.68] 탐색하는 불빛 scanner scanner
+[00:24.71] 오늘은 몇 점인가요? jealous jealous
+[00:38.21] 
+[00:28.06] 쟤는 대체 왜 저런 옷을 좋아한담?
+[00:31.15] 기분을 알 수 없는 저 표정은 뭐람?
+[00:34.46] 태가 달라진 건 아마 스트레스 때문인가?
+[00:37.72] 걱정이야 쟤도 참
+[00:42.22] 
+[00:40.35] Yellow C A R D
+[00:42.83] 이 선 넘으면 침범이야 beep
+[00:46.22] 매너는 여기까지 it's ma ma ma mine
+[00:50.64] Please keep the la la la line
+[01:05.14] 
+[00:53.70] Hello stu P I D
+[00:56.20] 그 선 넘으면 정색이야 beep
+[00:59.41] Stop it 거리 유지해 cause we don't know know know know
+[01:03.92] Comma we don't owe owe owe owe
+[01:07.04] (Any- Anything)
+[01:14.54] 
+[01:11.69] I don't care 당신의 비밀이 뭔지
+[01:15.78] 저마다의 사정 역시
+[01:18.07] 정중히 사양할게요 not my business
+[01:21.55] 이대로 좋아요 talk talkless
+[01:32.05] 
+[01:25.00] Still me 또예요 놀랄 거 없이
+[01:28.93] I'm sure you're gonna say "my gosh"
+[01:31.54] 바빠지는 눈빛 checki cheking
+[01:34.66] 매일 틀린 그림 찾기 oh hash tagging
+[01:48.16] 
+[01:37.99] 꼿꼿하게 걷다가 삐끗 넘어질라
+[01:41.18] 다들 수군대는 걸 자긴 아나 몰라
+[01:44.30] 요새 말이 많은 걔랑 어울린다나?
+[01:47.89] 문제야 쟤도 참
+[01:51.89] 
+[01:50.36] Yellow C A R D
+[01:52.84] 이 선 넘으면 침범이야 beep
+[01:56.29] 매너는 여기까지 it's ma ma ma mine
+[02:00.69] Please keep the la la la line
+[02:03.73] Hello stu P I D
+[02:06.10] 그 선 넘으면 정색이야 beep
+[02:09.46] Stop it 거리 유지해 cause we don't know know know know
+[02:14.00] Comma we don't owe owe owe owe
+[02:16.87] (Anything)
+[02:21.87] 
+[02:17.70] 편하게 하지 뭐
+[02:19.14] 어 거기 너 내 말 알아 들어? 어?
+[02:22.50] I don't believe it
+[02:24.11] 에이 아직 모를 걸
+[02:25.90] 내 말 틀려? 또 나만 나뻐? 어?
+[02:29.21] I don't believe it
+[02:38.21] 
+[02:30.82] 깜빡이 켜 교양이 없어 너 knock knock knock
+[02:35.10] Enough 더 상대 안 해 block block block block block
+[02:38.33] 잘 모르겠으면 이젠 좀 외워 babe
+[02:41.05] Repeat repeat
+[02:42.70] 참 쉽지 right
+[02:47.70] 
+[02:45.32] Yellow C A R D
+[02:47.92] 이 선 넘으면 침범이야 beep
+[02:51.35] 매너는 여기까지 it's ma ma ma mine
+[02:55.62] Please keep the la la la line
+[02:58.76] Hello stu P I D
+[03:01.20] 그 선 넘으면 정색이야 beep (beep beep)
+[03:04.59] Stop it 거리 유지해 cause we don't know know know know
+[03:08.95] Comma we don't owe owe owe owe
+[03:11.98] (Anything)
+```
